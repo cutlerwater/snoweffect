@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    color: #fff;
 }
 
 .wrapper {
@@ -7,6 +8,7 @@ body {
     height:100vh;
     // background: radial-gradient(farthest-corner at 30vw 20vh,#7397a1 1%,#3f2c41 100%);
     background-image: url('snowbg.jpg');
+    color: #fff;
 }
 
 .navbar {
@@ -84,3 +86,5 @@ $s3:"";
 @keyframes fall {
     100% {transform: translateY(200vh); }
 }
+
+a { color: #fff;}

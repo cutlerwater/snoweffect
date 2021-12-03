@@ -5,7 +5,8 @@ body {
 .wrapper {
     width:100vw;
     height:100vh;
-    background: radial-gradient(farthest-corner at 30vw 20vh,#7397a1 1%,#3f2c41 100%);
+    // background: radial-gradient(farthest-corner at 30vw 20vh,#7397a1 1%,#3f2c41 100%);
+    background-image: url('snowbg.jpg');
 }
 
 .navbar {
